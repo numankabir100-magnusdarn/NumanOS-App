@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy>=2.1.0b3
+python-multipart
+groq
+python-dotenv
+pypdf2
+pdfplumber
+python-docx
+requests
+pyyaml

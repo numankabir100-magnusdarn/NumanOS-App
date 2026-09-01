@@ -1,0 +1,2 @@
+rootProject.name = "NuManOS Gateway"
+include ':app'
